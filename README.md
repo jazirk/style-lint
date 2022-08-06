@@ -4,7 +4,7 @@
 [![npm downloads][npm-dls]][npm-url]
 [![github issues][issues-img]][issues-url]
 
-A [Stylelint][] config that sorts CSS properties the way [Recess][] did and
+A config that sorts CSS properties the way [Recess][] did and
 Bootstrap [did][]/[does][].
 
 \*With some modifications & additions for modern properties.
