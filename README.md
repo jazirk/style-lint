@@ -11,7 +11,7 @@ Bootstrap [did][]/[does][].
 
 ## Usage
 
-1.  Add [stylelint][] and this package to your project:
+1.  Add this package to your project:
     ```sh
     npm install --save-dev stylelint stylelint-config-recess-order
     ```
